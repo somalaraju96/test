@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "hi,how are you"
+echo "This is a demo class"
+
